@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_activity_forecast">ActivityForecast</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="action_map">Map</string>
+
+    <string name="action_share">Share</string>
+    <string name="title_activity_set_prefs">SetPrefsActivity</string>
+
+    <!--//For Preferences-->
+    <!--<string name="pref_location_key" translatable="false">pref_location</string>-->
+    <!--<string name="pref_location_default_value" translatable="false">400009</string>-->
+    <!--<string name="pref_location_title">Location</string>-->
+</resources>
